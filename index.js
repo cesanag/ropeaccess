@@ -116,7 +116,7 @@ const json = JSON.parse(req.responseText);
 } else if (categ === "Construction") {
     return "🔨"
   } else if (categ === "Painting") {
-    return "🧹"
+    return "🖌️"
   } else if (categ === "People") {
     return "👷"
     }}
